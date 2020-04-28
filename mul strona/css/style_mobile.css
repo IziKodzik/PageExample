@@ -1,0 +1,40 @@
+
+body{
+
+	font-size: 15px;
+
+}
+
+#obrazek{
+
+	max-width: 50%;
+
+}
+
+#naglowek #search {
+
+	display:none;
+
+}
+#naglowek #links{
+
+	display:none;
+
+}
+
+#container{
+
+	width: 100%;
+
+}
+
+#lewakolumna{
+
+	width: 100%;
+
+}
+#prawakolumna{
+
+	width: 100%;
+
+}
